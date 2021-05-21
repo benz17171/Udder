@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    override func viewWillLayoutSubviews() {
+    override func viewWillAppear(_ animated: Bool) {
         //
     }
 
